@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou me aperfeiçoando em Java e banco de dados.
 - 💬 Gosto de jogar no pc, assistir filmes e ouvir música.
 - 📫 Contate-me no e-mail: dupezzi@hotmail.com.
-- 📖 Futuro engenheiro, atualmente técnico em logística e graduado em Gestão Estratégica.
+- 📖 Futuro engenheiro de produção, atualmente técnico em logística e graduado em Gestão Estratégica.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
