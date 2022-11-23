@@ -1,7 +1,7 @@
 ### Olá Meu nome é Eduardo 👋
 
 - 🔭 Eu trabalho com Front-end, mas tenho pretensão de me torna Full Stack.
-- 🌱 Atualmente estou me aperfeiçoando em Java e banco de dados.
+- 🌱 Atualmente estou me aperfeiçoando em Javascript, Python e banco de dados.
 - 💬 Gosto de jogar no pc, assistir filmes e ouvir música.
 - 📫 Contate-me no e-mail: dupezzi@hotmail.com.
 - 📖 Futuro engenheiro de produção, atualmente técnico em logística e graduado em Gestão Estratégica.
